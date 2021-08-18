@@ -1,0 +1,32 @@
+<div class="row-one widgettable">
+<h2 class="title1">Plants Management</h2>
+<div class="col-md-3 general-grids widget-shadow">
+    <h4 class="title2">Plants:</h4>
+    <div class="bs-example1" data-example-id="embedded-scrollspy">
+        <nav id="navbar-example2" class="navbar navbar-default navbar-static">
+            <div class="container-fluid">
+                <div class="navbar-header">
+                    <button class="navbar-toggle collapsed" type="button" data-toggle="collapse" data-target=".bs-example-js-navbar-scrollspy">
+                    <span class="sr-only">Toggle navigation</span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                    <!--<a class="navbar-brand" href="index.html"></a> -->
+                </div>
+                <div class="collapse navbar-collapse bs-example-js-navbar-scrollspy">
+                {navbarleft}
+                </div>
+            </div>
+        </nav>
+        <div data-spy="scroll" data-target="#navbar-example2" class="scrollspy-example scroll scrollbar1">
+            {navbarscroll}
+        </div>
+    </div>
+</div>
+<!--<div class="col-md-8 general-grids grids-right widget-shadow">-->
+<div class="col-md-9 general-grids  widget-shadow">
+        {tabpannel}
+</div>
+<div class="clearfix"> </div>
+</div>

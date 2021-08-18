@@ -1,0 +1,12 @@
+<div class="row">
+<h2 class="title1">Log Statistics</h2>
+					
+					<!--<div class="col-md-12 general-grids grids-right widget-shadow">-->
+					<div class="col-md-3 general-grids widget-shadow scrollspy-example scroll scrollbar2">
+						{navselect}						
+					</div>
+					<div class="col-md-9 general-grids widget-shadow scrollspy-example scroll scrollbar2">
+						{content}						
+					</div>
+					<div class="clearfix"> </div>
+				</div>

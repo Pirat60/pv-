@@ -1,0 +1,18 @@
+<div class="row-one widgettable">
+    <h2 class="title1">Reports Management</h2>
+    <div class="col-md-3 compose-left">
+        <div class="folder widget-shadow">
+            {function}
+        </div>
+        <div class="folder widget-shadow">
+                {repshowa}
+        </div>
+        <div class="chat-grid widget-shadow">
+                {repshowb}
+        </div>
+    </div>
+    <div class="col-md-9 general-grids scroll widget-shadow">
+            {tabpannel}
+    </div>
+    <div class="clearfix"> </div>
+</div>

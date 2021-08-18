@@ -1,0 +1,14 @@
+<!--select-->
+<div class="search-box">
+<form class="input">
+<select>
+  <option selected="selected">Bitte wählen</option>
+  <option>Option 1</option>
+  <option>Option 2</option>
+  <option>Option 3</option>
+  <option>Option 4</option>
+  <option>Option 5</option>
+</select>
+</form>
+</div>
+<!--//end-search-box-->

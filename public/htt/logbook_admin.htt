@@ -1,0 +1,14 @@
+<div class="row">
+<h2 class="title1">Logbook Plant</h2>
+						
+					<div class="col-md-12 general-grids widget-shadow">	
+                     <div data-spy="scroll" data-target="" class="col-md-6 scrollspy-example scroll scrollbar2"> 
+                     {logbook_al}							
+					 </div> 	
+					 <div data-spy="scroll" data-target="" class="col-md-6 scrollspy-example scroll scrollbar2"> 
+					 {logbook_ab}	
+					 </div>	
+                    </div>	
+                    <div class="clearfix"> </div>
+					
+</div>

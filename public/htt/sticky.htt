@@ -1,0 +1,4 @@
+<div class="sticky-header header-section ">
+    <div class="header-left">{stleft}{allert}</div>
+    <div class="header-right">{functions}{stright}</div>
+</div>

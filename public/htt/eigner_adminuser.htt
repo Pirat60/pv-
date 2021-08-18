@@ -1,0 +1,7 @@
+<div class="row">
+<h2 class="title1">General Mangement</h2>
+    <div class="col-md-12 general-grids widget-shadow">
+        {tabpannel}
+    </div>
+    <div class="clearfix"> </div>
+</div>

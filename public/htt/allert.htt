@@ -1,0 +1,20 @@
+<!--notifications of menu start -->
+<button id="showLeftPush"><i class="fa fa-bars"></i></button>
+<!--menu start Button -->
+<div class="profile_details_left">
+    <ul class="nofitications-dropdown">
+        <li class="dropdown head-dpdn">
+            {massage}
+        </li>
+        <li class="dropdown head-dpdn">
+            {warnung}
+        </li>
+        <li class="dropdown head-dpdn">
+            {berichte}
+        </li>
+    </ul>
+    <div class="clearfix"></div>
+</div>
+<!--notification menu end -->
+
+	

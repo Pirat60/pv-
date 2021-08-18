@@ -1,0 +1,8 @@
+	<div class="cbp-spmenu cbp-spmenu-vertical cbp-spmenu-left cbp-spmenu-open" id="cbp-spmenu-s1">
+		<!--left-fixed -navigation-->
+		<aside class="sidebar-left">
+		{menu}
+		</aside>
+	</div>
+
+		

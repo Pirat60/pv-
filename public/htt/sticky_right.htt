@@ -1,0 +1,8 @@
+<div class="profile_details">
+    <ul>
+        <li><i class="fa fa-clock-o"></i> {CurrentTime} MEZ</li>
+        <li><a href="{logoutLink}?logout=true"><i class="fa fa-sign-out"></i> Logout</a></li>
+        <li><i class="fa fa-user"></i> {username}</li>
+    </ul>
+</div>
+<div class="clearfix"></div>

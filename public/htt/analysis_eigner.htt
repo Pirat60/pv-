@@ -1,0 +1,18 @@
+<div class="row">
+    <h2 class="title1">Statistics</h2>
+    <div class="col-md-12 general-grids widget-shadow">
+        <div class="col-md-6 folder">
+            {analysis_al}
+        </div>
+        <div class="col-md-6 folder">&nbsp;
+        </div>
+    </div>
+</div>
+<div class="row">
+    <div class="col-md-12 general-grids widget-shadow">
+        <div data-spy="scroll" data-target="" class="col-md-12 scrollspy-example scroll scrollbar1">
+            {analysis_ab}
+        </div>
+    </div>
+    <div class="col-md-12 folder widget-shadow">&nbsp;</div>
+</div>

@@ -1,0 +1,25 @@
+<div id="page-wrapper">
+<div class="main-page">
+<div class="login-page">
+				<h2 class="title1">Send my forgotten Password</h2>
+				<div class="widget-shadow">
+					<div class="login-body">
+<h4>Dear Green4Net customer, <br>
+If you have forgotten your password, you can send a link to your password after entering your e-mail.<br>
+<br> Please note that this link is only valid for 24 hours!</h4><br>
+						<form method="post" action="index.php?pid=201">
+							<input type="email" class="user" name="email" placeholder="Enter your e-mail" required="">
+							<input type="hidden" name="sendpass" value="true">
+							<div class="forgot-grid">
+								<div class="forgot">
+									<a href="index.php">Back to login</a>
+								</div>
+								<div class="clearfix"> </div>
+							</div>
+							<input type="submit" name="next" value="Next">							
+				</form>
+			</div>
+		</div>
+   </div>
+   </div>
+</div> 
